@@ -15,7 +15,7 @@ def less_puppies(number)
     elsif number = 3
     "Slow down"
   else 
-    
+    "good job!!!"
 end
 
 # 3. We've decided to give Rachel a little more control over her puppy obsession. Write a method called some_puppies that takes in two arguments - the number of puppies she has found and a maximum puppy allowance. This method should tell Rachel good job if she gets less than half her maximum allowance and to get back on her puppy restriction when she exceeds her maximum.
