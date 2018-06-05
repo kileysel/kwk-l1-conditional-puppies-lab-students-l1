@@ -16,6 +16,7 @@ def less_puppies(number)
     "Slow down"
   else 
     "good job!!!"
+  end
 end
 puts less_puppies(number)
 
