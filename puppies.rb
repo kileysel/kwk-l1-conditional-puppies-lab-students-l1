@@ -22,7 +22,9 @@ end
 def some_puppies(number, allowance)
   if number > 0.5
     "Good job!"
-    
+     else 
+     "Get back on your puppy restrictions"
+  end 
 end 
 
 
