@@ -28,7 +28,7 @@ def some_puppies(number, allowance)
      "Get back on your puppy restrictions"
   end 
 end 
-puts some_puppies(number, allowance)
+puts some_puppies(6, 5)
 
 
 # BONUS
